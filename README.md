@@ -1,10 +1,10 @@
 # Atmospheric-lepton-flux---MCEq
 Python scripts and simulation workflows using MCEq (Matrix Cascade Equations) to model and analyze atmospheric lepton fluxes for high-energy astrophysics research.
 
-Tiago Alves Pereira
-Federal University of Pelotas (UFPel)
-Institute of Physics and Mathematics (IFM)
-High and Medium Energy Group (GAME)
+Tiago Alves Pereira ||
+||Federal University of Pelotas (UFPel)
+||Institute of Physics and Mathematics (IFM)
+||High and Medium Energy Group (GAME)
 
 # Atmospheric Lepton Fluxes with MCEq
 
